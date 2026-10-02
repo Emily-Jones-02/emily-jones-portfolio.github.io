@@ -1,2 +1,2 @@
-# emily-jones-portfolio.github.io
-### Hello World!
+# Emily Jones
+### Hello World! This is my portfolio. There isn't much here yet.
